@@ -1,0 +1,43 @@
+[33mcommit 97b97b242b62d521fe93b6d0cb2676f8bf4ce808[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: fd5eb56 fef9f48
+Author: okk22d <okk22d@gmail.com>
+Date:   Wed Nov 23 19:58:17 2022 +1100
+
+    Merge branch 'main' of github.com:okk22d/sample_website
+    No idea!
+
+[33mcommit fd5eb56bb555ba71570dc8a5cee13f99b18147e7[m
+Author: okk22d <okk22d@gmail.com>
+Date:   Wed Nov 23 19:53:18 2022 +1100
+
+    no longer blank html page
+
+[33mcommit fef9f48476f18c36c64319fbc9db211e96e4efcc[m
+Author: okk22d <109200876+okk22d@users.noreply.github.com>
+Date:   Wed Nov 23 18:05:25 2022 +1100
+
+    Delete quit
+
+[33mcommit 265d250d8d248207e39628d842fcdfca56b88f1e[m
+Author: okk22d <okk22d@gmail.com>
+Date:   Wed Nov 23 18:03:14 2022 +1100
+
+    removed quit
+
+[33mcommit 0b4c8924768df1199480075a267357333b04172e[m
+Author: root <root@W00000PF3Z2JZT.wg.dir.telstra.com>
+Date:   Wed Nov 23 16:41:12 2022 +1100
+
+    initial commit
+
+[33mcommit ca7f758d5f7f6b31b459ca4d32fee7927611b473[m
+Author: root <root@W00000PF3Z2JZT.wg.dir.telstra.com>
+Date:   Wed Nov 23 16:35:24 2022 +1100
+
+    removed index file
+
+[33mcommit 4e72f38893a0d41b32c99f34b6e1cf258b94b2ff[m
+Author: root <root@W00000PF3Z2JZT.wg.dir.telstra.com>
+Date:   Wed Nov 23 16:16:27 2022 +1100
+
+    new repo
